@@ -1,0 +1,5 @@
+[users]
+Dawn=root,admin,user
+[roles]
+admin=user:delete
+user=user:update
